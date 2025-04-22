@@ -1,5 +1,3 @@
-Sure! Here's a cleaner, more structured, and user-friendly version of your README with improved formatting, clear steps, and a more professional tone:
-
 ---
 
 # 📝 Notepad App
@@ -75,11 +73,3 @@ Here are some screenshots of the app in action:
 
 ---
 
-## ✅ Requirements
-
-- Python 3.x installed on your system  
-  (Check by running `python --version` in terminal)
-
----
-
-Let me know if you'd like to include installation instructions for Python or add more screenshots!
